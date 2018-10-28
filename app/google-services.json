@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "813909253898",
+    "firebase_url": "https://outsider-manager.firebaseio.com",
+    "project_id": "outsider-manager",
+    "storage_bucket": "outsider-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813909253898:android:8b161bf3900abb9e",
+        "android_client_info": {
+          "package_name": "com.bn116.sig.outsider_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813909253898-lgj2if87dvmgttf6kf0iq81crk9ce709.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-xe4k5aACEnEJoQ9e08ntyeE9tLP8Xso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
